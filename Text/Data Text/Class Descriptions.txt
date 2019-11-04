@@ -1,0 +1,347 @@
+#0x290
+Noble heirs to a ruling house.[N]
+They possess great potential.[X]
+
+#0x291
+Noble heirs to a ruling house.[N]
+They possess great potential.[X]
+
+#0x292
+Mounted lords whose fine qualities[N]
+set them apart from their peers.[X]
+
+#0x293
+A princess with noble qualities[N]
+and peerless swordsmanship.[X]
+
+#0x294
+Mounted knights with swift[N]
+movement. Equip: Swords, lances.[X]
+
+#0x934
+Powerful mounted knights. Equip: Swords,[N]
+lances. Skills: Savior, Renewal.[X]
+
+#0x2B2
+Protective knights. Equip: Swords,[N]
+lances. Skills: Sol, Savior, Renewal.[X]
+
+#0x296
+Heavily armored knights with[N]
+high defenses. Equip: Swords, lances.[X]
+
+#0x297
+Knights of great skill. Equip: Swords,[N]
+lances, axes, bows. Skill: Pavise.[X]
+
+#0x8DB
+Armored titans wielding many weapons.[N]
+Equip: Swords, lances, anima, staves.[X]
+
+#0x298
+Multitalented knaves with an[N]
+eye for riches. Equip: Swords.[X]
+
+#0x5AD
+The self-titled King of Thieves.[N]
+Equip: Axes. Skills: Nihil, Steal.[X]
+
+#0x299
+Well-balanced professional[N]
+soldiers-for-hire. Equip: Swords.[X]
+
+#0x8DE
+Can easily slice foes in half. Equip:[N]
+Swords. Skills: Luna +, Wrath, Prayer.[X]
+
+#0x29A
+Seasoned veterans with remarkable[N]
+skill. Equip: Swords, axes. Skill: Sol.[X]
+
+#0x29B
+Talented swordsmen skilled in swift[N]
+killing strokes. Equip: Swords.[X]
+
+#0x2A5
+Fast swordsmen of lethal skill.[N]
+Equip: Swords. Skill: Continue.[X]
+
+#0x29D
+Masters of the killing arts. Equip:[N]
+Swords. Skills: Lethality, Pass.[X]
+
+#0x8DA
+A master of stealth. Equip: Swords,[N]
+bows. Skills: Steal, Lethality, Pass.[X]
+
+#0x29E
+Warriors who use bows to attack[N]
+from afar. Equip: Bows.[X]
+
+#0x29F
+Archers of unparalleled accuracy.[N]
+Equip: Bows. Skills: Bowrange +.[X]
+
+#0x2A0
+Fighters skilled in both sword and bow.[N]
+Equip: Swords, bows. Skill: Sure Shot.[X]
+
+#0x2A1
+High-flying knights vulnerable only to[N]
+bows and magic. Equip: Lances.[X]
+
+#0x691
+Elite soldiers who have honed their skills[N]
+to perfection. Equip: Lances. Skill: Nihil.[X]
+
+#0x828
+Superior dragon-mounted knights. Equip:[N]
+Swords, lances. Skills: Glide, Breaker.[X]
+
+#0x4EE
+Powerful war maidens. Equip: Swords,[N]
+anima, staves. Skills: Wrath, Miracle.[X]
+
+#0x2A3
+Wyvern riders who can pierce enemy[N]
+defenses. Equip: Lances. Skill: Luna.[X]
+
+#0x2A4
+Magic wielders with solid skills but low[N]
+physical strength. Equip: Anima.[X]
+
+#0xB58
+Advanced scholars of magical codices.[N]
+Equip: Anima, light, staves. Skill: Cancel.[X]
+
+#0x2A2
+Powerful magic knights. Equip: Swords,[N]
+staves, anima. Skill: Ambush.[X]
+
+#0x2A7
+Seasoned Priests. Equip: Light,[N]
+staves. Skills: Magic Effect, Fortune.[X]
+
+#0x2B3
+Wielders of magic who are stronger,[N]
+but slower, than mages. Equip: Dark.[X]
+
+#0xD1A
+Armored titans wielding many weapons.[N]
+Equip: Axes, bows, light, dark.[X]
+
+#0x2B4
+Wielders of deep and ancient magic.[N]
+Equip: Dark, anima, staves. Skill: Luna.[X]
+
+#0x2B5
+Master sorcerers who summon fighters.[N]
+Equip: Dark, staves. Skill: Summon.[X]
+
+#0x2AD
+Knaves who need no keys to open locks.[N]
+Equip: Swords. Skills: Steal, Pick, Pass.[X]
+
+#0x8E0
+Mounted, armored knights. Equip: Swords,[N]
+lances, axes. Skills: Intimidate, Boon.[X]
+
+#0x2B9
+Unproven knights with dreams[N]
+of glory. Equip: Lances.[X]
+
+#0x2AB
+Young fighters with high[N]
+expectations. Equip: Axes.[X]
+
+#0x2AC
+Mages in training with lofty[N]
+aspirations. Equip: Anima.[X]
+
+#0x5D2
+Powerful, flying magicians. Equip:[N]
+Anima, light, dark. Skill: Black Magic.[X]
+
+#0x2AA
+Mysterious tribesmen who can turn[N]
+into dragons. Equip: Dragonstone.[X]
+
+#0x2AE
+Ruffians with great strength but[N]
+poor defense. Equip: Axes.[X]
+
+#0x29C
+Stalwart warriors whose power is their[N]
+pride. Equip: Axes, bows. Skill: Colossus.[X]
+
+#0x2C1
+Tough brawlers who call the[N]
+sea their home. Equip: Axes.[X]
+
+#0x2B0
+Mighty mercenaries who thrive[N]
+in mountains. Equip: Axes.[X]
+
+#0x4ED
+Fighters at home in mountains and[N]
+sea. Equip: Axes. Skill: Wrath.[X]
+
+#0x2B6
+Users of light magic with high[N]
+resistance. Equip: Light.[X]
+
+#0x2B7
+Spiritual guides who use sacred staves[N]
+to heal allies. Equip: Staves.[X]
+
+#0x82A
+Superior dragon-mounted knights. Equip:[N]
+Lances, axes. Skill: Sol.[X]
+
+#0x2BA
+Airborne knights who resist magic but[N]
+are weak against bows. Equip: Lances.[X]
+
+#0x8FE
+Learned sky warriors. Equip: Swords,[N]
+lances, staves. Skills: Boon, Glide.[X]
+
+#0x2BC
+Holy women who use staves to heal[N]
+their allies. Equip: Staves.[X]
+
+#0x2BD
+Maidens who wield staves from[N]
+horseback. Equip: Staves.[X]
+
+#0x944
+Holy women on horseback. Equip: Anima,[N]
+light, staves. Skills: Boon, Miracle.[X]
+
+#0x2BF
+Dancers whose dances revitalize[N]
+their allies. They cannot attack.[X]
+
+#0x2C0
+Militants with well-rounded[N]
+abilities. Equip: Lances.[X]
+
+#0x2C2
+Master of the Dark Stone who uses[N]
+dark magic to command corpses.[X]
+
+#0x2C4
+Phantom warriors who vanish[N]
+when attacked. Equip: Axes.[X]
+
+#0x2C5
+Reanimated cadavers of the recently dead.[N]
+They are slow, but their claws are cruel.[X]
+
+#0x2C6
+Corpses animated by evil power. They are[N]
+slow moving, but their talons are deadly.[X]
+
+#0x2C7
+Dead warriors given will by dark magic.[N]
+They wield a variety of weapons.[X]
+
+#0x2C8
+Skeletons driven by terrible magic.[N]
+They can wield many weapons.[X]
+
+#0x2D8
+An innocent peasant lacking any[N]
+combat skills at all.[X]
+
+#0x2C9
+Giant poisonous mountain[N]
+spiders with venom-filled fangs.[X]
+
+#0x2CA
+Giant spiders infused with tremendous[N]
+magical strength. Their venom is lethal.[X]
+
+#0x2CB
+One-eyed giants who use their[N]
+strength to wield huge axes.[X]
+
+#0x2CC
+Blood-hungry demon dogs that[N]
+attack with keen-edged fangs.[X]
+
+#0x2CD
+Savage, three-headed hellhounds.[N]
+Their fangs are cruel death dealers.[X]
+
+#0x2CE
+Vile man-beasts who thunder into[N]
+combat with colossal axes.[X]
+
+#0x2CF
+Immensely fast and strong creatures[N]
+who hunt with axes and bows.[X]
+
+#0x2D0
+Floating eyes filled with dark power.[N]
+Simply seeing one is considered an ill omen.[X]
+
+#0x2D1
+Eyeballs whose dread power exceeds[N]
+that of their lesser cousins.[X]
+
+#0x2A8
+Horse riders with excellent[N]
+skill and mobility. Equip: Bows.[X]
+
+#0x2D4
+Malignant fiends who hunt with[N]
+lances. They ride on fell wings.[X]
+
+#0x2D5
+Gargoyles empowered by magic. They[N]
+are both swift and brutal.[X]
+
+#0x2D6
+The revived corpse of a dragon. Its[N]
+putrid breath decays all it touches.[X]
+
+#0x2D7
+This foul being is the master of the[N]
+dark. Its power exceeds mortal ken.[X]
+
+#0x2B8
+Musicians whose melodies[N]
+aid allies. Unable to attack.[X]
+
+#0x2C3
+Warships that patrol the[N]
+open seas. Equip: Ballistae.[X]
+
+#0x8DC
+Knights trained in a variety of weapons.[N]
+Equip: Swords, lances, staves, anima.[X]
+
+#0xD1B
+Knights trained in a variety of weapons.[N]
+Equip: Axes, bows, light, dark.[X]
+
+#0xD15
+A title given to lords[N]
+with regal qualities.[X]
+
+#0x2DA
+The kingdom's highest authority. She[N]
+is a popular ruler of great virtue.[X]
+
+#0x931
+A man with enough power[N]
+to rule over their country.[X]
+
+#0x2D9
+Spiritual leader of Rausten. He claims[N]
+ancestry with the saintly Latona.[X]
+
+#0xD17
+A sword given sentience[N]
+through dark magics.[X]

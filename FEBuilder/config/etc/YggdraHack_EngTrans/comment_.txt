@@ -1,0 +1,34 @@
+017BC3DE	IsPrepShop@ChangeShopBGMEachChapter.dmp
+017BC3EE	IsWorldMapShop@ChangeShopBGMEachChapter.dmp
+017BC3FC	SetMapID@ChangeShopBGMEachChapter.dmp
+017BC400	LoopStart@ChangeShopBGMEachChapter.dmp
+017BC448	Table@ChangeShopBGMEachChapter.dmp
+017BC406	Loop@ChangeShopBGMEachChapter.dmp
+017BC426	defualt_bgm@ChangeShopBGMEachChapter.dmp
+017BC40E	CheckShopType@ChangeShopBGMEachChapter.dmp
+017BC414	CheckMapID@ChangeShopBGMEachChapter.dmp
+017BC41E	Found@ChangeShopBGMEachChapter.dmp
+017BB36A	Is_Hard_Mode@Change_Arena_Bet.dmp
+017BB364	Is_Normal_Mode@Change_Arena_Bet.dmp
+017BB35E	Is_Easy_Mode@Change_Arena_Bet.dmp
+017BB3B8	BetTable@Change_Arena_Bet.dmp
+017BB36E	Join@Change_Arena_Bet.dmp
+073F62	Exit@ContinueBattleBGM.dmp
+017BC3C6	Exit@ContinueBattleBGM.dmp
+03211A	Skip@Fixed issue with glitch on mine when drop enemy.dmp
+03211C	Exit@Fixed issue with glitch on mine when drop enemy.dmp
+0180D1B2	Skip@Fixed issue with glitch on mine when drop enemy.dmp
+0180D1B4	Exit@Fixed issue with glitch on mine when drop enemy.dmp
+017AC634	Something_of_left@IndividualAnimation7743.dmp
+017AC646	find_anime@IndividualAnimation7743.dmp
+017AC642	exit@IndividualAnimation7743.dmp
+017AC674	CustomAnimeTable@IndividualAnimation7743.dmp
+017AC654	loop_search_table@IndividualAnimation7743.dmp
+017AC666	not_found@IndividualAnimation7743.dmp
+017AC662	found@IndividualAnimation7743.dmp
+017AC66A	store_and_exit@IndividualAnimation7743.dmp
+017AC6BC	CustomAnimeTable@IndividualAnimation7743_CC.dmp
+017AC686	loop_search_table@IndividualAnimation7743_CC.dmp
+017AC6A2	not_found@IndividualAnimation7743_CC.dmp
+017AC694	found@IndividualAnimation7743_CC.dmp
+017AC6AE	store_and_exit@IndividualAnimation7743_CC.dmp

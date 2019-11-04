@@ -1,0 +1,7 @@
+#include "Item Names.txt"
+#include "Class Names.txt"
+#include "Skill Text.txt"
+#include "Character Names.txt"
+#include "Chapter Text.txt"
+#include "Item Descriptions.txt"
+#include "Class Descriptions.txt"

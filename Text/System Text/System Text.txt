@@ -1,0 +1,22 @@
+#include "Options Menu.txt"
+#include "Stats.txt"
+#include "Prep Screen.txt"
+#include "Unit Menu.txt"
+#include "Toasters.txt"
+#include "Shop Text.txt"
+
+#0x701
+Suspended data will be lost.[N]
+Is that all right?[X]
+
+#0x833
+The difficulty is[N]
+around FE6[N]
+hard mode.[X]
+
+#0x834
+More difficult.[N]
+Only choose if[N]
+you are[N] 
+confident in[N]
+your skills.[X]

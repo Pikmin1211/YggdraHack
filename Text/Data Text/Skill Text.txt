@@ -1,0 +1,140 @@
+#0x5A9
+Nihil[N]
+Negate enemy combat skills.[X]
+
+#0x5A6
+Sol (Skill%)[N]
+Heal after dealing damage.[X]
+
+#0x5A2
+Wrath (HP < 25%)[N]
+Crit rate +50.[X]
+
+#0x5A3
+Colossus (Skill%)[N]
+Add con to damage.[X]
+
+#0x5B9
+Bowrange +[N]
+Add one to bow range.[X]
+
+#0x5B6
+Ambush[N]
+Always strike first.[X]
+
+#0x5B1
+Cancel (Speed%)[N]
+Negate foe's counterattack.[X]
+
+#0x5B2
+Breaker (Lv%)[N]
+Break the foe's weapon.[X]
+
+#0x5BA
+Lethality (50%)
+Kill the foe on critical hit.[X]
+
+#0x5BC
+Sure Shot (Lv x 2%)[N]
+The attack will not miss.[X]
+
+#0x5AB
+Miracle (Luck x 2%)[N]
+Halve a fatal blow at full HP.[X]
+
+#0x5A5
+Intimidate[N]
+Foes in 3 tiles lose 5 hit/avo.[X]
+
+#0x5B8
+Charm[N]
+Allies in 3 tiles gain 5 hit/avo.[X]
+
+#0x5BD
+Luna + (Skill%)[N]
+Ignore enemy defense.[X]
+
+#0x5A8
+Luna (Skill%)[N]
+Halve enemy defense.[X]
+
+#0x5A4
+Pavise (3/4 Def%)[N]
+Halve physical damage.[X]
+
+#0x5B0
+Adept (Speed%)[N]
+Attack again.[X]
+
+#0x5C0
+AS + 4[N]
+Attack Speed +4.[X]
+
+#0x5BE
+Renewal[N]
+Restore HP each turn.[X]
+
+#0x5C1
+Savior[N]
+Can rescue without penalties.[X]
+
+#0x5A0
+Boon[N]
+Restore bad status each turn.[X]
+
+#0x5BB
+Pass[N]
+Move through enemy units.[X]
+
+#0x6A0
+Immovable[N]
+Cannot be rescued.[X]
+
+#0x6AB
+Glide[N]
++5 canto move if moving in full.[X]
+
+#0x5C7
+Summon[N]
+Can summon phantoms.[X]
+
+#0x5BF
+Crusade (HP < 50%, Luck%)[N]
+Doubles damage dealt.[X]
+
+#0x5D1
+Black Magic (Magic%)[N]
+Inflict a status condition.[X]
+
+#0x5CE
+Fortune[N]
+Cannot be critically hit.[X]
+
+#0x5B4
+Magic Effect[N]
+Gain special effects when using magic.[X]
+
+#0x59C
+Nullify[N]
+Negate effective damage.[X]
+
+#0x5AA
+Paragon[N]
+Doubles EXP received.[X]
+
+#0x5B7
+Resolve (HP < 50%)[N]
+Combat stats x 1.5.[X]
+
+#0x5C9
+Watchful[N]
+Cannot be stolen from.[X]
+
+#0x5C2
+Rightful King[N]
+Skill activation rate +10%.[X]
+
+#0x5B5
+Astra (HP < 50%, Skill%)[N]
+Deal 5x damage.[X]
+

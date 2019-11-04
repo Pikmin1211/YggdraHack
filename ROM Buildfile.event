@@ -1,0 +1,17 @@
+#ifdef _FE8_
+    #include "EAstdlib.event"
+    #include "Custom Definitions.event"
+
+    ORG FreeSpace
+
+    #include "Secondary Text/_Special Text Installer.event"
+
+    #include "Text/Install Text Data.event"
+
+    #include "Patch/_MasterHackInstaller.event"
+
+    #include "Graphics/_MasterGraphicsInstaller.event"
+    
+#else
+    ERROR You are not assembling FE8 events!
+#endif

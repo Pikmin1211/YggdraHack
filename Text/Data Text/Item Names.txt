@@ -1,0 +1,629 @@
+#0x38A
+Dummy[X]
+
+#0x2DB
+Iron Sword[X]
+
+#0x2DC
+Slim Sword[X]
+
+#0x2DD
+Steel Sword[X]
+
+#0x2DE
+Silver Sword[X]
+
+#0x2DF
+Iron Blade[X]
+
+#0x2E0
+Steel Blade[X]
+
+#0x2E1
+Silver Blade[X]
+
+#0x2E2
+Poison Sword[X]
+
+#0x2E3
+Rapier[X]
+
+#0x2E4
+Brave Sword[X]
+
+#0x2E5
+Shamshir[X]
+
+#0x2E6
+Killing Edge[X]
+
+#0x2E7
+Armorslayer[X]
+
+#0x2E8
+Wyrmslayer[X]
+
+#0x2E9
+Light Brand[X]
+
+#0x2EA
+Runesword[X]
+
+#0x2EB
+Lancereaver[X]
+
+#0x2EC
+Zanbato[X]
+
+#0x2F0
+Iron Lance[X]
+
+#0x2F1
+Slim Lance[X]
+
+#0x2F2
+Steel Lance[X]
+
+#0x2F3
+Silver Lance[X]
+
+#0x2F4
+Toxin Lance[X]
+
+#0x2F5
+Brave Lance[X]
+
+#0x2F6
+Killer Lance[X]
+
+#0x2F7
+Horseslayer[X]
+
+#0x2F8
+Javelin[X]
+
+#0x2F9
+Spear[X]
+
+#0x2FA
+Axereaver[X]
+
+#0x301
+Iron Axe[X]
+
+#0x302
+Steel Axe[X]
+
+#0x303
+Silver Axe[X]
+
+#0x304
+Poison Axe[X]
+
+#0x305
+Brave Axe[X]
+
+#0x306
+Killer Axe[X]
+
+#0x307
+Halberd[X]
+
+#0x308
+Hammer[X]
+
+#0x309
+Devil Axe[X]
+
+#0x30A
+Hand Axe[X]
+
+#0x30B
+Tomahawk[X]
+
+#0x30C
+Swordreaver[X]
+
+#0x30D
+Swordslayer[X]
+
+#0x311
+Hatchet[X]
+
+#0x312
+Iron Bow[X]
+
+#0x313
+Steel Bow[X]
+
+#0x314
+Silver Bow[X]
+
+#0x315
+Poison Bow[X]
+
+#0x316
+Killer Bow[X]
+
+#0x317
+Brave Bow[X]
+
+#0x318
+Short Bow[X]
+
+#0x319
+Longbow[X]
+
+#0x31A
+Iron Ballista[X]
+
+#0x31B
+Long Ballista[X]
+
+#0x31C
+Killer Ballista[X]
+
+#0x330
+Fire[X]
+
+#0x331
+Thunder[X]
+
+#0x332
+Elfire[X]
+
+#0x334
+Bolting[X]
+
+#0x335
+Fimbulvetr[X]
+
+#0x6C7
+Blizzard[X]
+
+#0x336
+Excalibur[X]
+
+#0x337
+Lightning[X]
+
+#0x338
+Shine[X]
+
+#0x339
+Divine[X]
+
+#0x33A
+Purge[X]
+
+#0x33B
+Aura[X]
+
+#0x59B
+Tornado[X]
+
+#0x33D
+Flux[X]
+
+#0x33E
+Ruin[X]
+
+#0x33F
+Nosferatu[X]
+
+#0x340
+Eclipse[X]
+
+#0x341
+Fenrir[X]
+
+#0x342
+Gleipnir[X]
+
+#0x349
+Heal[X]
+
+#0x34A
+Mend[X]
+
+#0x34B
+Recover[X]
+
+#0x34C
+Physic[X]
+
+#0x34D
+Fortify[X]
+
+#0x34E
+Restore[X]
+
+#0x34F
+Silence[X]
+
+#0x350
+Sleep[X]
+
+#0x351
+Berserk[X]
+
+#0x352
+Warp[X]
+
+#0x353
+Rescue[X]
+
+#0x354
+Torch[X]
+
+#0x355
+Hammerne[X]
+
+#0x356
+Unlock[X]
+
+#0x357
+Barrier[X]
+
+#0x30E
+Dragon Axe[X]
+
+#0x35B
+Angelic Robe[X]
+
+#0x35C
+Energy Ring[X]
+
+#0x35D
+Skill Book[X]
+
+#0x35E
+Speedwing[X]
+
+#0x35F
+Goddess Icon[X]
+
+#0x360
+Dracoshield[X]
+
+#0x361
+Talisman[X]
+
+#0x362
+Boots[X]
+
+#0x363
+Body Ring[X]
+
+#0x364
+Hero Crest[X]
+
+#0x365
+Knight Crest[X]
+
+#0x366
+Orion's Bolt[X]
+
+#0x367
+Elysian Whip[X]
+
+#0x368
+Guiding Ring[X]
+
+#0x369
+Chest Key[X]
+
+#0x36A
+Door Key[X]
+
+#0x36B
+Lockpick[X]
+
+#0x36C
+Vulnerary[X]
+
+#0x36D
+Elixir[X]
+
+#0x36E
+Pure Water[X]
+
+#0x36F
+Antitoxin[X]
+
+#0x370
+Torch[X]
+
+#0x371
+Fili Shield[X]
+
+#0x372
+Member Card[X]
+
+#0x373
+Silver Card[X]
+
+#0x376
+White Gem[X]
+
+#0x377
+Blue Gem[X]
+
+#0x378
+Red Gem[X]
+
+#0x379
+Gold[X]
+
+#0x2FB
+Reginleif[X]
+
+#0x56C
+Light Rune[X]
+
+#0x37A
+Iron Rune[X]
+
+#0x936
+Killer B.[X]
+
+#0x32B
+Shadowkiller[X]
+
+#0x32C
+Bright Lance[X]
+
+#0x32D
+Fiendcleaver[X]
+
+#0x32E
+Beacon Bow[X]
+
+#0x6CB
+Centurio[X]
+
+#0x30F
+Battleaxe[X]
+
+#0x33C
+Ivaldi[X]
+
+#0x37B
+Master Seal[X]
+
+#0x37C
+Metis's Tome[X]
+
+#0x61
+Heaven Seal[X]
+
+#0x324
+Deadly Claw[X]
+
+#0x358
+Latona[X]
+
+#0x2FE
+Dragonspear[X]
+
+#0x2FD
+Vidofnir[X]
+
+#0x343
+Nagalfar[X]
+
+#0x31E
+Wretched Air[X]
+
+#0x2EE
+Audhulma[X]
+
+#0x2FC
+Siegmund[X]
+
+#0x310
+Garm[X]
+
+#0x31D
+Nighogg[X]
+
+#0x2FF
+Heavy Lance[X]
+
+#0x300
+Short Spear[X]
+
+#0x37D
+Ocean Seal[X]
+
+#0x37E
+Lunar Brace[X]
+
+#0x37F
+Solar Brace[X]
+
+#0x380
+1G[X]
+
+#0x381
+5G[X]
+
+#0x382
+10G[X]
+
+#0x383
+50G[X]
+
+#0x384
+100G[X]
+
+#0x387
+3000G[X]
+
+#0x388
+5000G[X]
+
+#0x2EF
+Wind Sword[X]
+
+#0x359
+Dance[X]
+
+#0x323
+Nightmare[X]
+
+#0x320
+Brongaa[X]
+
+#0x321
+Demon Light[X]
+
+#0x322
+Ravager[X]
+
+#0x31F
+Dragonstone[X]
+
+#0x347
+Demon Surge[X]
+
+#0x348
+Shadowshot[X]
+
+#0x325
+Rotten Claw[X]
+
+#0x326
+Fetid Claw[X]
+
+#0x327
+Poison Claw[X]
+
+#0x328
+Lethal Claw[X]
+
+#0x329
+Fiery Fang[X]
+
+#0x32A
+Hellfang[X]
+
+#0x345
+Evil Eye[X]
+
+#0x346
+Crimson Eye[X]
+
+#0x344
+Stone[X]
+
+#0x333
+Aircalibur[X]
+
+#0x385
+150G[X]
+
+#0x386
+200G[X]
+
+#0x375
+Black Gem[X]
+
+#0x374
+Gold Gem[X]
+
+#0x68
+Mystletainn[X]
+
+#0x6E7
+Tyrfing[X]
+
+#0x6C4
+Sleep Sword[X]
+
+#0x908
+Runespear[X]
+
+#0x66
+Mercurius[X]
+
+#0x910
+Mjolnir[X]
+
+#0x945
+Levin Sword[X]
+
+#0xC8
+Balmung[X]
+
+#0x85
+Dimevolt[X]
+
+#0x71
+Assassin Bld.[X]
+
+#0x65
+Gradivus[X]
+
+#0x84
+Grafcalibur[X]
+
+#0x73
+Bolganone[X]
+
+#0x67
+Short Axe[X]
+
+#0x47
+Drake Lance[X]
+
+#0x6DB
+Str Ring[X]
+
+#0x6DC
+Spd Ring[X]
+
+#0x6DD
+Skl Ring[X]
+
+#0x6DE
+Def Ring[X]
+
+#0x6D6
+Mag Ring[X]
+
+#0x6DA
+Luk Ring[X]
+
+#0x82E
+Wingspear[X]
+
+#0x6C5
+Berserk Axe[X]
+
+#0x6C6
+Silence Lnc.[X]
+
+#0x6C9
+Franz's Lnc.[X]
+
+#0xA4
+Thunderbolt[X]
+
+#0x6CA
+Basilikos[X]
+
+#0x6CC
+Rex Hasta[X]
+
+#0x6CD
+Eckesachs[X]
+
+#0x56D
+Regal Blade[X]
+
+#0x57C
+Chartier[X]
+
+#0xD18
+Demon Blade[X]

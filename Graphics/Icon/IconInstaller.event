@@ -1,0 +1,4 @@
+#define WeaponIconOffset(iconID) "0x12C3B50 + 0x80*iconID"
+
+ORG WeaponIconOffset(0x81)
+#incext Png2Dmp "81.png"

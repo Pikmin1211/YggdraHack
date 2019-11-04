@@ -1,0 +1,47 @@
+    //Menu stuff
+	PUSH
+		ORG $AAF8C8 //align combat option 1
+		BYTE 0x8F
+		ORG $AAF8D0 //^
+		BYTE 0xB6
+		ORG $2341A //make the Use menu wider
+		BYTE 0xE0
+		ORG $5C56F6 //make the main menu wider
+		BYTE 0x7
+		ORG $AC1B0A //make world map menu wider
+		BYTE 0x7
+		//ORG $9aeac //prep menu width
+		//BYTE 0x0A
+	POP
+
+	//Item R-button menu stuff
+	PUSH
+		//ORG $8B576 //Make monster weapons show stats
+		//SHORT 0xE006
+		ORG $8BF6E //line up Rng and Hit labels
+		BYTE 0x2F
+		ORG $8C000 //shift Rng number over so it doesn't overlap with the label
+		BYTE 0x43
+		ORG $8BFEE //shift weapon rank over so it doesn't overlap with *its* label
+		BYTE 0x20
+		ORG $8C080 //shift staff weapon rank over
+		BYTE 0x1B
+	POP
+
+	//Monster Weapon Display
+	PUSH
+		ORG $16BCA
+		BYTE 0x0B 0x28 0x04 0xD0 0x09 0x49 0x80 0x00 0x08 0x18 0x00 0x68 0x06 0xE0 0x80 0x20 0x80 0x00 0x6B 0x30 0x02 0xE0
+		ORG $16BEA
+		BYTE 0x0C 0x46
+		ORG $8B57E
+		BYTE 0x6
+		ORG $1E458
+		BYTE 0x0C
+	POP
+
+	//Map Menu Stuff
+	PUSH
+		ORG $8F69A //shift number over for rout map's units remaining
+		BYTE 0x34
+	POP
