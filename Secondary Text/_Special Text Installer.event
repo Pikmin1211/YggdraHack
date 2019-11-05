@@ -27,3 +27,11 @@
 {
 	#include "Class_Change_Menu.event"
 }
+
+{
+	#include "World_Map.event"
+}
+
+{
+	#include "Route_Split.event"
+}

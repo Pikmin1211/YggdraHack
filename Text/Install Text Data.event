@@ -849,6 +849,14 @@ __TEXTPROCESSD18:
 #incbin ".TextEntries\text_buildfileD18.fetxt.dmp"
 setText($D18, __TEXTPROCESSD18)
 
+__TEXTPROCESS6F4:
+#incbin ".TextEntries\text_buildfile6F4.fetxt.dmp"
+setText($6F4, __TEXTPROCESS6F4)
+
+__TEXTPROCESS599:
+#incbin ".TextEntries\text_buildfile599.fetxt.dmp"
+setText($599, __TEXTPROCESS599)
+
 __TEXTPROCESS246:
 #incbin ".TextEntries\text_buildfile246.fetxt.dmp"
 setText($246, __TEXTPROCESS246)
@@ -2145,6 +2153,10 @@ __TEXTPROCESS3E4:
 #incbin ".TextEntries\text_buildfile3E4.fetxt.dmp"
 setText($3E4, __TEXTPROCESS3E4)
 
+__TEXTPROCESS43E:
+#incbin ".TextEntries\text_buildfile43E.fetxt.dmp"
+setText($43E, __TEXTPROCESS43E)
+
 __TEXTPROCESS3E6:
 #incbin ".TextEntries\text_buildfile3E6.fetxt.dmp"
 setText($3E6, __TEXTPROCESS3E6)
@@ -2724,6 +2736,10 @@ setText($568, __TEXTPROCESS568)
 __TEXTPROCESSD19:
 #incbin ".TextEntries\text_buildfileD19.fetxt.dmp"
 setText($D19, __TEXTPROCESSD19)
+
+__TEXTPROCESS2B1:
+#incbin ".TextEntries\text_buildfile2B1.fetxt.dmp"
+setText($2B1, __TEXTPROCESS2B1)
 
 __TEXTPROCESS290:
 #incbin ".TextEntries\text_buildfile290.fetxt.dmp"
@@ -5041,10 +5057,6 @@ __TEXTPROCESS6F2:
 #incbin ".TextEntries\text_buildfile6F2.fetxt.dmp"
 setText($6F2, __TEXTPROCESS6F2)
 
-__TEXTPROCESS6F4:
-#incbin ".TextEntries\text_buildfile6F4.fetxt.dmp"
-setText($6F4, __TEXTPROCESS6F4)
-
 __TEXTPROCESS6F5:
 #incbin ".TextEntries\text_buildfile6F5.fetxt.dmp"
 setText($6F5, __TEXTPROCESS6F5)
@@ -5380,6 +5392,14 @@ setText($833, __TEXTPROCESS833)
 __TEXTPROCESS834:
 #incbin ".TextEntries\text_buildfile834.fetxt.dmp"
 setText($834, __TEXTPROCESS834)
+
+__TEXTPROCESSBD5:
+#incbin ".TextEntries\text_buildfileBD5.fetxt.dmp"
+setText($BD5, __TEXTPROCESSBD5)
+
+__TEXTPROCESSBD6:
+#incbin ".TextEntries\text_buildfileBD6.fetxt.dmp"
+setText($BD6, __TEXTPROCESSBD6)
 
 }
 

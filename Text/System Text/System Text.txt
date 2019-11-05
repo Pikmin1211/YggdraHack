@@ -20,3 +20,9 @@ Only choose if[N]
 you are[N] 
 confident in[N]
 your skills.[X]
+
+#0xBD5
+Go with Yggdra to Rausten.[X]
+
+#0xBD6
+Go with Ephraim to Grado.[X]

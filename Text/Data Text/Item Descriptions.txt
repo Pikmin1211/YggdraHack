@@ -110,7 +110,7 @@ Long-range weapon.[X]
 Super long-range weapon.[X]
 
 #0x3E4
-Long-range lightning strike.
+Long-range lightning strike.[X]
 
 #0x43E
 Puts enemies to sleep.[X]
@@ -614,7 +614,7 @@ Allows allies[N]
 to move again.[X]
 
 #0x4F0
-[X]
+ [X]
 
 #0x90B
 Improves critical hit rate.[X]
@@ -627,7 +627,10 @@ when held.[X]
 Launches magical attacks.[X]
 
 #0x568
-A King's sword.[X]
+A king's sword.[X]
 
 #0xD19
-A conjured blade.[X]
+A conjured blade. Drains HP.[X]
+
+#0x2B1
+Launches deadly poison.[X]

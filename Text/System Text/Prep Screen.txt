@@ -155,8 +155,11 @@ that unit.[X]
 Manage your units' items.[X]
 
 #0x53C
-This command cannot be[N]
-used at this time.[X]
+Save any changes.[N]
+Choose Restart Chapter[N]
+to restart this chapter.[N]
+You can't return to the[N]
+world map after saving.[X]
 
 #0x53D
 Valuable battle[N]

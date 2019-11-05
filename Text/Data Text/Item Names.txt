@@ -365,7 +365,7 @@ Light Rune[X]
 Iron Rune[X]
 
 #0x936
-Killer B.[X]
+Sludge Bomb[X]
 
 #0x32B
 Shadowkiller[X]
@@ -627,3 +627,9 @@ Chartier[X]
 
 #0xD18
 Demon Blade[X]
+
+#0x6F4
+Thoron[X]
+
+#0x599
+Rexbolt[X]

@@ -119,7 +119,7 @@ Powerful magic knights. Equip: Swords,[N]
 staves, anima. Skill: Ambush.[X]
 
 #0x2A7
-Seasoned Priests. Equip: Light,[N]
+Seasoned priests. Equip: Light,[N]
 staves. Skills: Magic Effect, Fortune.[X]
 
 #0x2B3
