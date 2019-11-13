@@ -41,7 +41,7 @@ Wanderer[X]
 Hero[X]
 
 #0x24F
-Myrmidon[X]
+Swordsman[X]
 
 #0x250
 Swordmaster[X]

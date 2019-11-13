@@ -263,7 +263,7 @@ Hammerne[X]
 Unlock[X]
 
 #0x357
-Barrier[X]
+Ensorcel[X]
 
 #0x30E
 Dragon Axe[X]
@@ -326,7 +326,7 @@ Vulnerary[X]
 Elixir[X]
 
 #0x36E
-Pure Water[X]
+Mana Water[X]
 
 #0x36F
 Antitoxin[X]

@@ -89,7 +89,7 @@ HP[X]
 Max[X]
 
 #0x47A
-S/M[X]
+Str[X]
 
 #0x47B
 Skl[X]
@@ -104,7 +104,7 @@ Luk[X]
 Def[X]
 
 #0x47F
-Res[X]
+Mag[X]
 
 #0x480
 Affin[X]

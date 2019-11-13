@@ -238,18 +238,18 @@ a distance.[X]
 Opens doors.[X]
 
 #0x407
-Increases magic resistance[N]
+Increases magical power[N]
 of adjacent allies briefly.[X]
 
 #0x445
-Raises resistance.[X]
+Raises magic.[X]
 
 #0x3BE
 Effective against wyverns.[X]
 
 #0x40B
 Increases HP by a max of[N]
-5 points. Vanishes after use.[X]
+7 points. Vanishes after use.[X]
 
 #0x449
 Raises Max HP.[X]
@@ -290,11 +290,11 @@ Increases defense by[N]
 Raises defense.[X]
 
 #0x411
-Increases resistance by[N]
+Increases magic by[N]
 2 points. Vanishes after use.[X]
 
 #0x44F
-Raises resistance.[X]
+Raises magic.[X]
 
 #0x412
 Increases movement by[N]
@@ -385,12 +385,12 @@ restores all HP.[X]
 Restores all HP.[X]
 
 #0x41E
-A draught that boosts Res.[N]
+A draught that boosts Mag.[N]
 Grows weaker each turn.[X]
 
 #0x45C
-Reduces damage[N]
-from magic attacks.[X]
+Briefly raises[N]
+magical power.[X]
 
 #0x41F
 A medicinal solution that[N]

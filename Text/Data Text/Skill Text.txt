@@ -40,7 +40,7 @@ The attack will not miss.[X]
 
 #0x5AB
 Miracle (Luck x 2%)[N]
-Halve a fatal blow at full HP.[X]
+Halve a fatal blow.[X]
 
 #0x5A5
 Intimidate[N]
@@ -60,7 +60,7 @@ Halve enemy defense.[X]
 
 #0x5A4
 Pavise (3/4 Def%)[N]
-Halve physical damage.[X]
+Negate damage taken.[X]
 
 #0x5B0
 Adept (Speed%)[N]

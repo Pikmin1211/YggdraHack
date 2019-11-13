@@ -188,7 +188,7 @@ Select a character to restore to normal.[X]
 Select the character whose weapon needs repair.[X]
 
 #0x7F7
-Select which character's resistance to bolster.[X]
+Select which character's magic to bolster.[X]
 
 #0x7F8
 Select a door to open.[X]
@@ -278,7 +278,7 @@ Luck increased.[X]
 Defense increased.[X]
 
 #0x816
-Resistance increased.[X]
+Magic increased.[X]
 
 #0x817
 Movement increased.[X]
