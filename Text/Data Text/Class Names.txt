@@ -68,7 +68,7 @@ Dragon Rider[X]
 Halberdier[X]
 
 #0x256
-Dragonmaster[X]
+Dragonlord[X]
 
 #0x56
 Valkyrie[X]
