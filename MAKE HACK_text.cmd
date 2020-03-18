@@ -10,8 +10,4 @@ cd "%~dp0Event Assembler"
 
 Core A FE8 "-output:%~dp0YggdraHack_EngTrans.gba" "-input:%~dp0ROM Buildfile.event"
 
-cd ".."
-
-start /w FEBuilder/FEBuilderGBA.exe --translate --fromrom=YggdraHack_EngTrans.gba --torom=FE8_Clean.gba --importfont YggdraHack_EngTrans.gba
-
 pause

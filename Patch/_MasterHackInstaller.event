@@ -1,3 +1,6 @@
+// English Font
+#include "English Font/_English Font.event"
+
     //Menu stuff
 	PUSH
 		ORG $AAF8C8 //align combat option 1

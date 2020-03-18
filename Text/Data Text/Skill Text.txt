@@ -111,8 +111,9 @@ Fortune[N]
 Cannot be critically hit.[X]
 
 #0x5B4
-Magic Effect[N]
-Gain special effects when using magic.[X]
+Mageslayer[N]
+Deal effective damage[N]
+to magic users.[X]
 
 #0x59C
 Nullify[N]
